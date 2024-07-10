@@ -1,6 +1,3 @@
-Creating a brief description for a "SearchEngineWithExa" repository, it might look something like this:
-
----
 
 ### SearchEngineWithExa
 
